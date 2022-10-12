@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao perfil da paula-Maia 😁
+# Bem-vindo(a) ao perfil da Paula-Maia 😁
 
  <div>
    <a href="https://github.com/paula-Maia">
